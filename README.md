@@ -21,5 +21,5 @@ An Pytorch implementation of All convolution nets on cifar-10, and transfer lear
 - config.py: options of models, datasets, traning_strategy, load_model_path and hyperparameters used in BP.
 
 ## Important Material
-- [How to organize a project in Deep Learning] (https://zhuanlan.zhihu.com/p/29024978) 
+- [How to organize a project in Deep Learning](https://zhuanlan.zhihu.com/p/29024978) 
 - [How to generate a table for Latex online ](http://www.tablesgenerator.com/#)
