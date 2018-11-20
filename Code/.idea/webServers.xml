@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="78f07093-b9de-4dee-a60d-7cfaecfe9a86" name="seolen_ai" url="http://10.19.124.11">
+        <fileTransfer host="10.19.124.11" port="22101" rootFolder="/root/PycharmProjects/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22101" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
