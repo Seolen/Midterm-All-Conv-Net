@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}\itemsep=-1pt
+
+\bibitem{torch}
+Pytorch tutorial.
+\newblock \url{https://pytorch.org/tutorials}.
+
+\bibitem{style}
+Y.~Chen.
+\newblock A guidance on pytorch coding style based on kaggle dogs vs. cats.
+\newblock \url{https://github.com/chenyuntc/pytorch-best-practice}.
+
+\bibitem{striving}
+J.~T. Springenberg, A.~Dosovitskiy, T.~Brox, and M.~Riedmiller.
+\newblock Striving for simplicity: The all convolutional net.
+\newblock {\em arXiv preprint arXiv:1412.6806}, 2014.
+
+\bibitem{acc}
+StefOe.
+\newblock All-conv-pytorch.
+\newblock \url{https://github.com/StefOe/all-conv-pytorch}.
+
+\end{thebibliography}

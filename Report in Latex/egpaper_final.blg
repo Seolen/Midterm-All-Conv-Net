@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: egpaper_final.aux
+The style file: ieee.bst
+Database file #1: egbib.bib
+Warning--entry type for "style" isn't style-file defined
+--line 9 of file egbib.bib
+Warning--entry type for "torch" isn't style-file defined
+--line 15 of file egbib.bib
+Warning--entry type for "acc" isn't style-file defined
+--line 20 of file egbib.bib
+Warning--to sort, need author or key in torch
+You've used 4 entries,
+            2120 wiz_defined-function locations,
+            514 strings with 4175 characters,
+and the built_in function-call counts, 892 in all, are:
+= -- 80
+> -- 38
+< -- 0
++ -- 17
+- -- 12
+* -- 39
+:= -- 151
+add.period$ -- 11
+call.type$ -- 4
+change.case$ -- 18
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 31
+empty$ -- 85
+format.name$ -- 12
+if$ -- 189
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 1
+newline$ -- 22
+num.names$ -- 6
+pop$ -- 31
+preamble$ -- 1
+purify$ -- 14
+quote$ -- 0
+skip$ -- 31
+stack$ -- 0
+substring$ -- 21
+swap$ -- 4
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 16
+warning$ -- 1
+while$ -- 6
+width$ -- 5
+write$ -- 37
+(There were 4 warnings)
